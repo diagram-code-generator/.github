@@ -9,3 +9,4 @@ Projects:
 - https://github.com/joselitofilho/aws-terraform-generator
 - https://github.com/joselitofilho/gcp-terraform-generator
 - https://github.com/joselitofilho/drawio-parser-go
+- https://github.com/joselitofilho/hcl-parser-go
